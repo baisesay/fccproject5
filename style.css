@@ -42,7 +42,7 @@ p {
 #tribute-info {
     width: 50%;
     margin: auto;
-    text-align: justify;
+    text-align:left;
     font-size: 1.2rem;
 }
 
